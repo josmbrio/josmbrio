@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/-jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" alt="Docker Badge"/>
         <br />
         <img src="https://img.shields.io/badge/-maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=black" alt="Docker Badge"/>
-        <img src="https://img.shields.io/badge/-gradle-02303A?style=for-the-badge&logo=gradle&logoColor=black" alt="Docker Badge"/>
+        <img src="https://img.shields.io/badge/-gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Docker Badge"/>
         <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=black" alt="Docker Badge"/>
         <br />
         <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
@@ -45,13 +45,18 @@
         <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=black" alt="Docker Badge"/>
         <img src="https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Docker Badge"/>
         <img src="https://img.shields.io/badge/-openshift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=black" alt="Docker Badge"/>
-        <img src="https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black" alt="Docker Badge"/>
+        <img src="https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Docker Badge"/>
         <br />
         <img src="https://img.shields.io/badge/-terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=black" alt="Docker Badge"/>
         <img src="https://img.shields.io/badge/-ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=black" alt="Docker Badge"/>
         <br />
         <img src="https://img.shields.io/badge/-grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black" alt="Docker Badge"/>
         <img src="https://img.shields.io/badge/-prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=black" alt="Docker Badge"/>
+        <br />
+        <img src="https://img.shields.io/badge/-notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Docker Badge"/>
+        <br />
+        <img src="https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Docker Badge"/>
+        <img src="https://img.shields.io/badge/-pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="Docker Badge"/>
       </td>
       <td>
         <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=black" alt="Docker Badge"/>
