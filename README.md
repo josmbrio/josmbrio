@@ -59,6 +59,8 @@
         <br />
         <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="Docker Badge"/>
         <img src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="Docker Badge"/>
+        <br />
+        <img src="https://img.shields.io/badge/-sql-black?style=for-the-badge&logoColor=black" alt="Docker Badge"/>
       </td>
       <td>
         <img src="https://img.shields.io/badge/-postgres-4169E1?style=for-the-badge&logo=postgres&logoColor=black" alt="Docker Badge"/>
