@@ -20,6 +20,25 @@
   </h2>
   <p>Here are some of my projects. The best at the top.</p>
   <ul>
-    <li>Deployments to K8s cluster and docker standalone server</li>
+    <li><a href="https://github.com/josmbrio/ex-microservice">Python microservice delivered and deployed with Jenkins pipeline using Docker, AWS EC2 and EKS, Kubernetes and Terraform</a></li>
+    <h2>
+      My stack technologies
+    </h2>
+    <table>
+      <tr>
+        <td>DevOps Tools</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/-git-red?style=for-the-badge&logo=git&logoColor=black" alt="Linux Badge"/>
+          <img src="https://img.shields.io/badge/-jenkins-red?style=for-the-badge&logo=jenkins&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+          <img src="https://img.shields.io/badge/-bash-grey?style=for-the-badge&logo=gnubash&logoColor=black" alt="Linux Badge"/>
+          <img src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-aws-orange?style=for-the-badge&logo=amazonaws&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-terraform-blue?style=for-the-badge&logo=terraform&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-ansible-blue?style=for-the-badge&logo=ansible&logoColor=black" alt="Docker Badge"/>
+        </td>
 </div>
 
