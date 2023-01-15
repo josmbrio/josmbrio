@@ -27,18 +27,32 @@
     <table>
       <tr>
         <td>DevOps Tools</td>
-      </tr>
+        <td>Programming Languages</td>
+        <td>Databases</td>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/-git-red?style=for-the-badge&logo=git&logoColor=black" alt="Linux Badge"/>
-          <img src="https://img.shields.io/badge/-jenkins-red?style=for-the-badge&logo=jenkins&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=black" alt="Linux Badge"/>
+          <img src="https://img.shields.io/badge/-jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" alt="Docker Badge"/>
           <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-          <img src="https://img.shields.io/badge/-bash-grey?style=for-the-badge&logo=gnubash&logoColor=black" alt="Linux Badge"/>
-          <img src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=black" alt="Docker Badge"/>
-          <img src="https://img.shields.io/badge/-kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Docker Badge"/>
-          <img src="https://img.shields.io/badge/-aws-orange?style=for-the-badge&logo=amazonaws&logoColor=black" alt="Docker Badge"/>
-          <img src="https://img.shields.io/badge/-terraform-blue?style=for-the-badge&logo=terraform&logoColor=black" alt="Docker Badge"/>
-          <img src="https://img.shields.io/badge/-ansible-blue?style=for-the-badge&logo=ansible&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black" alt="Linux Badge"/>
+          <br />
+          <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black" alt="Docker Badge"/>
+          <br />
+          <img src="https://img.shields.io/badge/-terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=black" alt="Docker Badge"/>
         </td>
+        <td>
+          <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="Docker Badge"/>
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/-postgres-4169E1?style=for-the-badge&logo=postgres&logoColor=black" alt="Docker Badge"/>
+          <img src="https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=black" alt="Docker Badge"/>
+        </td>
+      </tr>
 </div>
 
