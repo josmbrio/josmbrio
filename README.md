@@ -72,5 +72,10 @@
         <img src="https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=black" alt="Docker Badge"/>
       </td>
     </tr>
+  </table>
+  <h2>
+    My Statistics
+  </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josmbrio&layout=compact&langs_count=10" alt="Languages statistics"/>
 </div>
 
